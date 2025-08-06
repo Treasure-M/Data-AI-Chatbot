@@ -6,10 +6,7 @@ An interactive educational chatbot that helps students learn foundational AI con
 
 ## Features
 ✅ Conversational learning interface  
-✅ Follow-up question support (3+ levels deep)  
-✅ Multimedia resources (diagrams/visualizations)  
-✅ Cross-referenced AI concepts  
-✅ Course recommendations  
+✅ Follow-up question support (3+ levels deep)   
 ✅ Ethical considerations guidance  
 
 ## Quick Start
